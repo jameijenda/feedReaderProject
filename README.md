@@ -1,4 +1,4 @@
-# Project Overview
+# RSS FeedReader Project
 
 This project is about testing a web-based application that reads RSS feeds. 
 We'll be testing it using Jasmine.
