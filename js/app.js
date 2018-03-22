@@ -23,9 +23,7 @@ var allFeeds = [
     }
 ];
 
-const bodyClass = $('body');
 
-const feedContainer = document.querySelector(".feed");
 
 
 
